@@ -1,4 +1,5 @@
-# emoX-text
+# Emotions in language space
+
 Explorations into the subject of linguistic expressions of emotional events documented in the Empathetic Dialogues dataset (ED; Rashkin et al., [2019](https://arxiv.org/pdf/1811.00207.pdf)). As its name suggests, the ED dataset is often used as a benchmark dataset for developing empatheic dialog systems. 
 At the same time, the ED dataset also has a particularly interesting feature that can allow us to probe into the psycholinguistic aspects of emotions. 
 In particular, the creators of the ED dataset provided people with an emotion word, and had them describe a situation (henceforth referred to as "emotional situation instance") associated with that word. Similar to word assocation tests within the domain of psychology and cognitive science, the emotion-situation relation in ED can provide us with some clues about the associative links between episodic memory and emotion concepts (i.e., how emotion words trigger memories of events/situations).
